@@ -1,0 +1,28 @@
+{
+  "listClass": [
+    {
+      "code": 1,
+      "name": "PHP",
+      "listStudent": [
+        {
+          "code": 1,
+          "name": "duy"
+        },
+        {
+          "code": 2,
+          "name": "tu"
+        }
+      ]
+    },
+    {
+      "code": 2,
+      "name": "JAVA",
+      "listStudent": []
+    },
+    {
+      "code": 3,
+      "name": ".NET",
+      "listStudent": []
+    }
+  ]
+}
