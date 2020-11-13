@@ -1,26 +1,26 @@
 {
   "listClass": [
     {
-      "code": 1,
+      "id": 1,
       "name": "PHP",
       "listStudent": [
         {
-          "code": 1,
+          "id": 1,
           "name": "duy"
         },
         {
-          "code": 2,
+          "id": 2,
           "name": "tu"
         }
       ]
     },
     {
-      "code": 2,
+      "id": 2,
       "name": "JAVA",
       "listStudent": []
     },
     {
-      "code": 3,
+      "id": 3,
       "name": ".NET",
       "listStudent": []
     }
