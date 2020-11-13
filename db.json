@@ -2,27 +2,47 @@
   "listClass": [
     {
       "id": 1,
+      "code": "AC1D",
       "name": "PHP",
-      "listStudent": [
-        {
-          "id": 1,
-          "name": "duy"
-        },
-        {
-          "id": 2,
-          "name": "tu"
-        }
-      ]
+      "total_of_student": 0
     },
     {
       "id": 2,
+      "code": "GK2L",
       "name": "JAVA",
-      "listStudent": []
+      "total_of_student": 0
     },
     {
       "id": 3,
+      "code": "HC4D",
       "name": ".NET",
-      "listStudent": []
+      "total_of_student": 0
+    }
+  ],
+  "listStudent": [
+    {
+      "id": 1,
+      "name": "Duy",
+      "email": "nguyenhaduy@gmail.com",
+      "class": "PHP"
+    },
+    {
+      "id": 2,
+      "name": "Mien",
+      "email": "nguyenhaduy@gmail.com",
+      "class": "PHP"
+    },
+    {
+      "id": 3,
+      "name": "Tuan",
+      "email": "nguyenhaduy@gmail.com",
+      "class": "JAVA"
+    },
+    {
+      "id": 4,
+      "name": "Manh",
+      "email": "nguyenhaduy@gmail.com",
+      "class": ".NET"
     }
   ]
 }
