@@ -23,32 +23,32 @@
     {
       "id": 1,
       "name": "Duy",
-      "phone: "0785189402",
-      "password: "qweasdzxc",
+      "phone": "0785189402",
+      "password": "qweasdzxc",
       "email": "nguyenhaduy@gmail.com",
       "class": "PHP"
     },
     {
       "id": 2,
       "name": "Mien",
-      "phone: "0785189403",
-      "password: "qweasdzxc",
+      "phone": "0785189403",
+      "password": "qweasdzxc",
       "email": "nguyenhamien@gmail.com",
       "class": "PHP"
     },
     {
       "id": 3,
       "name": "Tuan",
-      "phone: "0785189404",
-      "password: "qweasdzxc",
+      "phone": "0785189404",
+      "password": "qweasdzxc",
       "email": "nguyenhatuan@gmail.com",
       "class": "JAVA"
     },
     {
       "id": 4,
       "name": "Manh",
-      "phone: "0785189405",
-      "password: "qweasdzxc",
+      "phone": "0785189405",
+      "password": "qweasdzxc",
       "email": "nguyenhamanh@gmail.com",
       "class": "C++"
     }
