@@ -55,8 +55,9 @@
   ],
   "user": [
     {
-      "email": "duy@gmail.com" ,
-      "password": "qweasd"
+      "email": "duy@gmail.com",
+      "password": "qweasd",
+      "accessToken": "a4Zsf2jkaLrr3"
     }
   ]
 }
