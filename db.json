@@ -52,5 +52,11 @@
       "email": "nguyenhamanh@gmail.com",
       "class": "C++"
     }
+  ],
+  "user": [
+    {
+      "email": "duy@gmail.com" ,
+      "password": "qweasd
+    }
   ]
 }
